@@ -1,0 +1,6 @@
+pyuic6 -x nome_arquivo.ui -o novo_nome_em_py
+
+você desenha a interface e depois transforma em py.
+
+
+
